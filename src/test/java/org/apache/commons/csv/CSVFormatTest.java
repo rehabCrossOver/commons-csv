@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-ci skip
+
 package org.apache.commons.csv;
 
 import static org.apache.commons.csv.CSVFormat.RFC4180;
